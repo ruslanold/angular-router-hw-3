@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angularHw3"
+    }
+  },
+  "defaultProject": "angularHw3",
+  "cli": {
+    "analytics": false
+  }
 }
